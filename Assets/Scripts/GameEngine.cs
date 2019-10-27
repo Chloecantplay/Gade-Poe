@@ -24,6 +24,7 @@ namespace GadeTask4
         public GameObject FactoryT2;
         public GameObject ResourceT1;
         public GameObject ResourceT2;
+        public Text Info;
 
         private int round;
         int resources = 0;
